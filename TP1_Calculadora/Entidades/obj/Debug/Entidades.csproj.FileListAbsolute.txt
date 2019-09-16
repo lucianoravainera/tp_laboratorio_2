@@ -1,0 +1,6 @@
+G:\utn\labo 2 2019\TP1_Calculadora\Entidades\bin\Debug\Entidades.dll
+G:\utn\labo 2 2019\TP1_Calculadora\Entidades\bin\Debug\Entidades.pdb
+G:\utn\labo 2 2019\TP1_Calculadora\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+G:\utn\labo 2 2019\TP1_Calculadora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+G:\utn\labo 2 2019\TP1_Calculadora\Entidades\obj\Debug\Entidades.dll
+G:\utn\labo 2 2019\TP1_Calculadora\Entidades\obj\Debug\Entidades.pdb

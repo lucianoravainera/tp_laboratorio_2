@@ -1,0 +1,7 @@
+G:\utn\labo 2 2019\TP1_Calculadora\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+G:\utn\labo 2 2019\TP1_Calculadora\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+G:\utn\labo 2 2019\TP1_Calculadora\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+G:\utn\labo 2 2019\TP1_Calculadora\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+G:\utn\labo 2 2019\TP1_Calculadora\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\utn\labo 2 2019\TP1_Calculadora\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+G:\utn\labo 2 2019\TP1_Calculadora\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

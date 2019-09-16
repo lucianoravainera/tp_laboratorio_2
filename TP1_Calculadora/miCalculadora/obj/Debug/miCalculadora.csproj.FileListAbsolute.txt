@@ -1,0 +1,13 @@
+G:\utn\labo 2 2019\TP1_Calculadora\miCalculadora\bin\Debug\miCalculadora.exe.config
+G:\utn\labo 2 2019\TP1_Calculadora\miCalculadora\bin\Debug\miCalculadora.exe
+G:\utn\labo 2 2019\TP1_Calculadora\miCalculadora\bin\Debug\miCalculadora.pdb
+G:\utn\labo 2 2019\TP1_Calculadora\miCalculadora\bin\Debug\Entidades.dll
+G:\utn\labo 2 2019\TP1_Calculadora\miCalculadora\bin\Debug\Entidades.pdb
+G:\utn\labo 2 2019\TP1_Calculadora\miCalculadora\obj\Debug\miCalculadora.csprojResolveAssemblyReference.cache
+G:\utn\labo 2 2019\TP1_Calculadora\miCalculadora\obj\Debug\miCalculadora.FormCalculadora.resources
+G:\utn\labo 2 2019\TP1_Calculadora\miCalculadora\obj\Debug\miCalculadora.Properties.Resources.resources
+G:\utn\labo 2 2019\TP1_Calculadora\miCalculadora\obj\Debug\miCalculadora.csproj.GenerateResource.cache
+G:\utn\labo 2 2019\TP1_Calculadora\miCalculadora\obj\Debug\miCalculadora.csproj.CoreCompileInputs.cache
+G:\utn\labo 2 2019\TP1_Calculadora\miCalculadora\obj\Debug\miCalculadora.csproj.CopyComplete
+G:\utn\labo 2 2019\TP1_Calculadora\miCalculadora\obj\Debug\miCalculadora.exe
+G:\utn\labo 2 2019\TP1_Calculadora\miCalculadora\obj\Debug\miCalculadora.pdb
