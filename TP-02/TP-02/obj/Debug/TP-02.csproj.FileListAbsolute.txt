@@ -1,0 +1,40 @@
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\bin\Debug\TP-02.exe.config
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\bin\Debug\TP-02.exe
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\bin\Debug\TP-02.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\obj\Debug\TP-02.exe
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\obj\Debug\TP-02.pdb
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\bin\Debug\TP-02.exe.config
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\obj\Debug\TP-02.exe
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\obj\Debug\TP-02.pdb
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\bin\Debug\TP-02.exe
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\bin\Debug\TP-02.pdb
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\bin\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\TP-02\bin\Debug\TP-02.exe.config
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\TP-02\obj\Debug\TP-02.exe
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\TP-02\obj\Debug\TP-02.pdb
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
+G:\utn\labo 2 2019\TP2\TP-02\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
+G:\utn\labo 2 2019\TP2\TP-02\TP-02\obj\Debug\TP-02.csproj.CoreCompileInputs.cache
+G:\utn\labo 2 2019\TP2\TP-02\TP-02\obj\Debug\TP-02.exe
+E:\utn\labo 2 2019\TP2\TP-02\TP-02\bin\Debug\TP-02.exe.config
+E:\utn\labo 2 2019\TP2\TP-02\TP-02\bin\Debug\TP-02.exe
+E:\utn\labo 2 2019\TP2\TP-02\TP-02\bin\Debug\TP-02.pdb
+E:\utn\labo 2 2019\TP2\TP-02\TP-02\bin\Debug\Entidades.dll
+E:\utn\labo 2 2019\TP2\TP-02\TP-02\bin\Debug\Entidades.pdb
+E:\utn\labo 2 2019\TP2\TP-02\TP-02\obj\Debug\TP-02.csprojAssemblyReference.cache
+E:\utn\labo 2 2019\TP2\TP-02\TP-02\obj\Debug\TP-02.csproj.CoreCompileInputs.cache
+E:\utn\labo 2 2019\TP2\TP-02\TP-02\obj\Debug\TP-02.csproj.CopyComplete
+E:\utn\labo 2 2019\TP2\TP-02\TP-02\obj\Debug\TP-02.exe
+E:\utn\labo 2 2019\TP2\TP-02\TP-02\obj\Debug\TP-02.pdb
+G:\utn\labo 2 2019\TP2\TP-02\TP-02\bin\Debug\TP-02.exe.config
+G:\utn\labo 2 2019\TP2\TP-02\TP-02\bin\Debug\TP-02.exe
+G:\utn\labo 2 2019\TP2\TP-02\TP-02\bin\Debug\TP-02.pdb
+G:\utn\labo 2 2019\TP2\TP-02\TP-02\bin\Debug\Entidades.dll
+G:\utn\labo 2 2019\TP2\TP-02\TP-02\bin\Debug\Entidades.pdb
+G:\utn\labo 2 2019\TP2\TP-02\TP-02\obj\Debug\TP-02.csproj.CopyComplete
+G:\utn\labo 2 2019\TP2\TP-02\TP-02\obj\Debug\TP-02.pdb
