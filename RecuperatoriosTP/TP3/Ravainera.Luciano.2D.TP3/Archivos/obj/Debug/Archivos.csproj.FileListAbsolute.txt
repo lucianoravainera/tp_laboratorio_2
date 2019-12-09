@@ -1,0 +1,9 @@
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\Archivos\bin\Debug\Archivos.dll
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\Archivos\bin\Debug\Excepciones.dll
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\Archivos\bin\Debug\Excepciones.pdb
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\Archivos\obj\Debug\Archivos.dll
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\Archivos\obj\Debug\Archivos.pdb

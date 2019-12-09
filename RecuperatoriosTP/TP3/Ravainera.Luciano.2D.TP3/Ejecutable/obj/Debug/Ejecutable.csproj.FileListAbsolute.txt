@@ -1,0 +1,16 @@
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\Ejecutable\obj\Debug\Ejecutable.csproj.CoreCompileInputs.cache
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\Ejecutable\bin\Debug\Ejecutable.exe.config
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\Ejecutable\bin\Debug\Ejecutable.exe
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\Ejecutable\bin\Debug\Ejecutable.pdb
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\Ejecutable\bin\Debug\Clases Abstractas.dll
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\Ejecutable\bin\Debug\Clases Instanciables.dll
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\Ejecutable\bin\Debug\Excepciones.dll
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\Ejecutable\bin\Debug\Clases Abstractas.pdb
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\Ejecutable\bin\Debug\Clases Instanciables.pdb
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\Ejecutable\bin\Debug\Excepciones.pdb
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\Ejecutable\obj\Debug\Ejecutable.csprojResolveAssemblyReference.cache
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\Ejecutable\obj\Debug\Ejecutable.csproj.CopyComplete
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\Ejecutable\obj\Debug\Ejecutable.exe
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\Ejecutable\obj\Debug\Ejecutable.pdb
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\Ejecutable\bin\Debug\Archivos.dll
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\Ejecutable\bin\Debug\Archivos.pdb
