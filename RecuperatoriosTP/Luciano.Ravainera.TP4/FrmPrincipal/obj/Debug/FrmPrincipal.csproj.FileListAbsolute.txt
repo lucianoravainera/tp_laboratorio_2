@@ -1,0 +1,13 @@
+F:\utn\labo 2 2019\TP4\Luciano.Ravainera.TP4\FrmPrincipal\bin\Debug\FrmPrincipal.exe.config
+F:\utn\labo 2 2019\TP4\Luciano.Ravainera.TP4\FrmPrincipal\bin\Debug\FrmPrincipal.exe
+F:\utn\labo 2 2019\TP4\Luciano.Ravainera.TP4\FrmPrincipal\bin\Debug\FrmPrincipal.pdb
+F:\utn\labo 2 2019\TP4\Luciano.Ravainera.TP4\FrmPrincipal\obj\Debug\FrmPrincipal.csprojResolveAssemblyReference.cache
+F:\utn\labo 2 2019\TP4\Luciano.Ravainera.TP4\FrmPrincipal\obj\Debug\FrmPrincipal.Properties.Resources.resources
+F:\utn\labo 2 2019\TP4\Luciano.Ravainera.TP4\FrmPrincipal\obj\Debug\FrmPrincipal.csproj.GenerateResource.cache
+F:\utn\labo 2 2019\TP4\Luciano.Ravainera.TP4\FrmPrincipal\obj\Debug\FrmPrincipal.csproj.CoreCompileInputs.cache
+F:\utn\labo 2 2019\TP4\Luciano.Ravainera.TP4\FrmPrincipal\obj\Debug\FrmPrincipal.exe
+F:\utn\labo 2 2019\TP4\Luciano.Ravainera.TP4\FrmPrincipal\obj\Debug\FrmPrincipal.pdb
+F:\utn\labo 2 2019\TP4\Luciano.Ravainera.TP4\FrmPrincipal\obj\Debug\FrmPrincipal.FrmPpal.resources
+F:\utn\labo 2 2019\TP4\Luciano.Ravainera.TP4\FrmPrincipal\bin\Debug\Entidades.dll
+F:\utn\labo 2 2019\TP4\Luciano.Ravainera.TP4\FrmPrincipal\bin\Debug\Entidades.pdb
+F:\utn\labo 2 2019\TP4\Luciano.Ravainera.TP4\FrmPrincipal\obj\Debug\FrmPrincipal.csproj.CopyComplete

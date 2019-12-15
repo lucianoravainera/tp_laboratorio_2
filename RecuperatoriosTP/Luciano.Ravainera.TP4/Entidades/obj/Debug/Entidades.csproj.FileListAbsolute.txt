@@ -1,0 +1,5 @@
+F:\utn\labo 2 2019\TP4\Luciano.Ravainera.TP4\Entidades\bin\Debug\Entidades.dll
+F:\utn\labo 2 2019\TP4\Luciano.Ravainera.TP4\Entidades\bin\Debug\Entidades.pdb
+F:\utn\labo 2 2019\TP4\Luciano.Ravainera.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\utn\labo 2 2019\TP4\Luciano.Ravainera.TP4\Entidades\obj\Debug\Entidades.dll
+F:\utn\labo 2 2019\TP4\Luciano.Ravainera.TP4\Entidades\obj\Debug\Entidades.pdb
