@@ -87,10 +87,10 @@
       </Alumnos>
       <Clase>Legislacion</Clase>
       <Instructor>
-        <Nombre>Juan</Nombre>
-        <Apellido>Lopez</Apellido>
+        <Nombre>Roberto</Nombre>
+        <Apellido>Juarez</Apellido>
         <Nacionalidad>Argentino</Nacionalidad>
-        <DNI>12234456</DNI>
+        <DNI>32234456</DNI>
       </Instructor>
     </Jornada>
   </Jornadas>

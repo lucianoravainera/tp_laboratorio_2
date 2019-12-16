@@ -1,0 +1,25 @@
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\TestUnitarios\bin\Debug\TestUnitarios.dll
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\TestUnitarios\bin\Debug\TestUnitarios.pdb
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\TestUnitarios\bin\Debug\Archivos.dll
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\TestUnitarios\bin\Debug\Clases Abstractas.dll
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\TestUnitarios\bin\Debug\Clases Instanciables.dll
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\TestUnitarios\bin\Debug\Excepciones.dll
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\TestUnitarios\bin\Debug\Archivos.pdb
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\TestUnitarios\bin\Debug\Clases Abstractas.pdb
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\TestUnitarios\bin\Debug\Clases Instanciables.pdb
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\TestUnitarios\bin\Debug\Excepciones.pdb
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\TestUnitarios\obj\Debug\TestUnitarios.csprojResolveAssemblyReference.cache
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\TestUnitarios\obj\Debug\TestUnitarios.csproj.CoreCompileInputs.cache
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\TestUnitarios\obj\Debug\TestUnitarios.csproj.CopyComplete
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\TestUnitarios\obj\Debug\TestUnitarios.dll
+F:\utn\labo 2 2019\TP3\Ravainera.Luciano.2D.TP3\TestUnitarios\obj\Debug\TestUnitarios.pdb

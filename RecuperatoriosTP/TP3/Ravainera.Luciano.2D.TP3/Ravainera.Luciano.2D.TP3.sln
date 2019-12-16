@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejecutable", "Ejecutable\Ej
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Archivos", "Archivos\Archivos.csproj", "{9F289582-D18D-4E2F-B3B5-A2AC000C0901}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUnitarios", "TestUnitarios\TestUnitarios.csproj", "{010C77C3-F586-46A3-97D0-8CC475BAF418}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{9F289582-D18D-4E2F-B3B5-A2AC000C0901}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F289582-D18D-4E2F-B3B5-A2AC000C0901}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F289582-D18D-4E2F-B3B5-A2AC000C0901}.Release|Any CPU.Build.0 = Release|Any CPU
+		{010C77C3-F586-46A3-97D0-8CC475BAF418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{010C77C3-F586-46A3-97D0-8CC475BAF418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{010C77C3-F586-46A3-97D0-8CC475BAF418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{010C77C3-F586-46A3-97D0-8CC475BAF418}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

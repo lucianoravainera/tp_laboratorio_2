@@ -95,7 +95,14 @@ namespace Clases_Instanciables
         /// <returns></returns>
         public static bool operator ==(Universidad g, Alumno a)
         {
-            return g.alumnos.Contains(a);
+            foreach (Alumno item in g.Alumnos)
+            {
+                if (item == a)
+                {
+                    return true;
+                }
+            }
+            return false;
         }
 
         /// <summary>
@@ -117,7 +124,14 @@ namespace Clases_Instanciables
         /// <returns></returns>
         public static bool operator ==(Universidad g, Profesor i)
         {
-            return g.profesores.Contains(i);
+            foreach (Profesor item in g.Instructores)
+            {
+                if (item == i)
+                {
+                    return true;
+                }
+            }
+            return false;
         }
 
         /// <summary>
@@ -217,15 +231,13 @@ namespace Clases_Instanciables
         /// <returns></returns>
         public static Profesor operator !=(Universidad g, Universidad.EClases clase)
         {
-            foreach (Profesor item in g.Instructores)
+            Profesor p = (g == clase);
+            if (!(p is null))
             {
-                if (item != clase)
-                {
-                    return item;
-                }
+                return p;
             }
 
-            throw new SinProfesorException(); //no se si va esto
+            throw new SinProfesorException();
         }
 
         #endregion
