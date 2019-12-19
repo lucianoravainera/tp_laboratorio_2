@@ -58,15 +58,6 @@ namespace FrmPrincipal
             else
                 this.ActualizarEstados();
         }
-        /// <summary>
-        /// Muestro la información de un paquete en particular de la lista de Entregados
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
-        private void mostrarToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            this.MostrarInformacion<Paquete>((IMostrar<Paquete>)lstEstadoEntregado.SelectedItem);
-        }
 
         /// <summary>
         /// Al cerrarse el formulario, termino todos los hilos en ejecución.
@@ -134,6 +125,15 @@ namespace FrmPrincipal
                 }
 
             }
+        }
+        /// <summary>
+        /// Muestro la información de un paquete en particular de la lista de Entregados
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void MostrarToolStripMenuItem_Click_1(object sender, EventArgs e)
+        {
+            this.MostrarInformacion<Paquete>((IMostrar<Paquete>)lstEstadoEntregado.SelectedItem);
         }
     }
 }

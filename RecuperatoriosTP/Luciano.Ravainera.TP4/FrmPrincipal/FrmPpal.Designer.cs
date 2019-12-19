@@ -28,11 +28,14 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.lblEstadoEntregado = new System.Windows.Forms.Label();
             this.lblEstadoEnViaje = new System.Windows.Forms.Label();
             this.lblEstadoIngresado = new System.Windows.Forms.Label();
             this.lstEstadoEntregado = new System.Windows.Forms.ListBox();
+            this.cmsListas = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.MostrarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.lstEstadoEnViaje = new System.Windows.Forms.ListBox();
             this.lstEstadoIngresado = new System.Windows.Forms.ListBox();
             this.rtbMostrar = new System.Windows.Forms.RichTextBox();
@@ -44,6 +47,7 @@
             this.btnMostrarTodos = new System.Windows.Forms.Button();
             this.btnAgregar = new System.Windows.Forms.Button();
             this.groupBox2.SuspendLayout();
+            this.cmsListas.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -91,12 +95,27 @@
             // 
             // lstEstadoEntregado
             // 
+            this.lstEstadoEntregado.ContextMenuStrip = this.cmsListas;
             this.lstEstadoEntregado.FormattingEnabled = true;
             this.lstEstadoEntregado.Location = new System.Drawing.Point(494, 58);
             this.lstEstadoEntregado.Name = "lstEstadoEntregado";
             this.lstEstadoEntregado.Size = new System.Drawing.Size(213, 212);
             this.lstEstadoEntregado.TabIndex = 2;
             this.lstEstadoEntregado.TabStop = false;
+            // 
+            // cmsListas
+            // 
+            this.cmsListas.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.MostrarToolStripMenuItem});
+            this.cmsListas.Name = "contextMenuStrip1";
+            this.cmsListas.Size = new System.Drawing.Size(181, 48);
+            // 
+            // MostrarToolStripMenuItem
+            // 
+            this.MostrarToolStripMenuItem.Name = "MostrarToolStripMenuItem";
+            this.MostrarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.MostrarToolStripMenuItem.Text = "Mostrar...";
+            this.MostrarToolStripMenuItem.Click += new System.EventHandler(this.MostrarToolStripMenuItem_Click_1);
             // 
             // lstEstadoEnViaje
             // 
@@ -206,6 +225,7 @@
             this.Text = "Correo UTN por Luciano.Ravainera.2D";
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
+            this.cmsListas.ResumeLayout(false);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
@@ -229,5 +249,7 @@
         private System.Windows.Forms.TextBox txtDireccion;
         private System.Windows.Forms.Button btnMostrarTodos;
         private System.Windows.Forms.Button btnAgregar;
+        private System.Windows.Forms.ContextMenuStrip cmsListas;
+        private System.Windows.Forms.ToolStripMenuItem MostrarToolStripMenuItem;
     }
 }
